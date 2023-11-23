@@ -1,0 +1,3 @@
+[Variables]
+plates = {'array': [{'name': 'LLTexture', 'offset': 1.57}, {'name': 'YlwG10', 'offset': 0.9}], 'index': 1}
+
